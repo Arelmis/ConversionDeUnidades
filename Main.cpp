@@ -2,7 +2,13 @@
 using namespace std;
 
 void float temperatura (int escala)
-float Masa (float unidad)
+float Masa (float unidad);
+
+void Masa(V1, V2){
+	cout>>jijdiajdisjdsd
+
+
+}
 int main()
 {
 	float Temp, masa, vol, eq;
