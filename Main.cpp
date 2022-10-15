@@ -32,7 +32,7 @@ int main()
 	system("cls");
 				cout<<"Ingrese la unidad que desea convertir : ";
 				cin>>unidad;
-				//Invocar a la función para realizar la operación seleccionada y el valor retornado lo asigna a la variable resultado
+				//Invocar a la funciÃ³n para realizar la operaciÃ³n seleccionada y el valor retornado lo asigna a la variable resultado
 				resultado = masa (float unidad)
 				cout<<el resultado de su conversion es: <<endl;
 				system("pause");	
@@ -46,7 +46,7 @@ int main()
 float Masa (float unidad)
 {
 		int conver;
-	//Mostrar menú con las unidades a convertir 
+	//Mostrar menÃº con las unidades a convertir 
 	cout<<"1. Gramos a Decagramos"<<endl;
 	cout<<"2. Gramos a Hectogramos"<<endl;
 	cout<<"3. Gramos a Kilogramos"<<endl;
